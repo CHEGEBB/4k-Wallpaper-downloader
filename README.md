@@ -1,7 +1,7 @@
 # 4K Wallpaper Downloader Script
 
 **Created by Brian Chege (GitHub username: CHEGEBB)**
-
+**Use-case:Linux;
 Welcome to the Random 4K Image Downloader project! This repository allows you to download stunning 4K images at random. Follow the instructions below to navigate the project and get started.Those who understand the Script can modify it to download from other sites.Follow CHEGEBB on github for more.
 
 ## Table of Contents
