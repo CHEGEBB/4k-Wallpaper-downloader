@@ -31,9 +31,11 @@ To get started with this project, follow these steps:
 
 
    
-Running the Project:
- 1.cd 4K-WALLPAPER DOWNLOADER 
- 2.Install The requirements
+## Running the Project:
+```bash
+ cd 4K-WALLPAPER DOWNLOADER 
+ ## Install The requirements
+```bash
   $pip install -r requirements.txt
-3.Run the main script to start downloading random 4K images:
+## Run the main script to start downloading random 4K images:
  $ python3 main.py
