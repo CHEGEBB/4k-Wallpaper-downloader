@@ -33,10 +33,10 @@ To get started with this project, follow these steps:
 Installing Python 3 on Linux
 Before running the project, ensure that you have Python 3 installed on your Linux system. If it's not installed, you can install it using the package manager available on your distribution. Use one of the following commands based on your Linux distribution:
 
-Debian/Ubuntu:
+## Debian/Ubuntu:
 sudo apt update
 sudo apt install python3
-Red Hat/CentOS:
+## Red Hat/CentOS:
 sudo dnf install python3    # or
 sudo yum install python3
 ## Setting Up the Environment:
@@ -44,7 +44,7 @@ cd 4k-Wallpaper-downloader
 ## Install the required Python packages by running:
 pip install -r requirements.txt
 pip install -r requirements2.txt
-Running the Project:
+## Running the Project:
 python3 main.py
 
 
