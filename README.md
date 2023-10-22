@@ -34,8 +34,8 @@ Installing Python 3 on Linux
 Before running the project, ensure that you have Python 3 installed on your Linux system. If it's not installed, you can install it using the package manager available on your distribution. Use one of the following commands based on your Linux distribution:
 
 ## Debian/Ubuntu:
-sudo apt update &&
-sudo apt install python3
+sudo apt update && sudo apt install python3
+
 ## Red Hat/CentOS:
 sudo dnf install python3    # or
 sudo yum install python3
