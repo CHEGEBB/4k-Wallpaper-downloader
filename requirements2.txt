@@ -1,4 +1,4 @@
-Gabbyphil4==4.11.1
+beautifulsoup4==4.11.1
 certifi==2022.6.15
 charset-normalizer==2.1.0
 html5lib==1.1
