@@ -42,7 +42,7 @@ sudo yum install python3
 ## Setting Up the Environment:
 cd 4k-Wallpaper-downloader
 ## Install the required Python packages by running:
-pip install -r requirements.txt&&
+pip install -r requirements.txt &&
 pip install -r requirements2.txt
 ## Running the Project:
 python3 main.py
