@@ -1,16 +1,18 @@
 # 4K Wallpaper Downloader Script
 
 **Created by Brian Chege (GitHub username: CHEGEBB)**
-**Use-case:Linux;
-Welcome to the Random 4K Image Downloader project! This repository allows you to download stunning 4K images at random. Follow the instructions below to navigate the project and get started.Those who understand the Script can modify it to download from other sites.Follow CHEGEBB on github for more.
+
+**Use-case: Linux**
+
+Welcome to the Random 4K Image Downloader project! This repository allows you to download stunning 4K images at random. Follow the instructions below to navigate the project and get started. Those who understand the script can modify it to download from other sites. Follow CHEGEBB on GitHub for more.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Getting Started](#getting-started)
    - [Cloning the Repository](#cloning-the-repository)
+   - [Installing Python 3 on Linux](#installing-python-3-on-linux)
+   - [Setting Up the Environment](#setting-up-the-environment)
    - [Running the Project](#running-the-project)
-
-
 
 ## Project Overview
 
@@ -28,14 +30,22 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/CHEGEBB/4k-Wallpaper-downloader.git
+Installing Python 3 on Linux
+Before running the project, ensure that you have Python 3 installed on your Linux system. If it's not installed, you can install it using the package manager available on your distribution. Use one of the following commands based on your Linux distribution:
 
-
-   
-## Running the Project:
-```bash
- cd 4K-WALLPAPER DOWNLOADER 
- ## Install The requirements
-```bash
+Debian/Ubuntu:
+sudo apt update
+sudo apt install python3
+Red Hat/CentOS:
+sudo dnf install python3    # or
+sudo yum install python3
+## Setting Up the Environment:
+cd 4k-Wallpaper-downloader
+## Install the required Python packages by running:
 pip install -r requirements.txt
-## Run the main script to start downloading random 4K images:
- python3 main.py
+pip install -r requirements2.txt
+Running the Project:
+python3 main.py
+
+
+
