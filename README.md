@@ -1,12 +1,12 @@
-# 4K Wallpaper Downloader Script
+# 4K Wallpaper Downloader Script 🌟
 
-**Created by Brian Chege (GitHub username: CHEGEBB)**
+**Created by Brian Chege (GitHub username: CHEGEBB) 🚀**
 
-**Use-case: Linux**
+**Use-case: Linux 🐧**
 
 Welcome to the Random 4K Image Downloader project! This repository allows you to download stunning 4K images at random. Follow the instructions below to navigate the project and get started. Those who understand the script can modify it to download from other sites. Follow CHEGEBB on GitHub for more.
 
-## Table of Contents
+## Table of Contents 📋
 1. [Project Overview](#project-overview)
 2. [Getting Started](#getting-started)
    - [Cloning the Repository](#cloning-the-repository)
@@ -14,15 +14,15 @@ Welcome to the Random 4K Image Downloader project! This repository allows you to
    - [Setting Up the Environment](#setting-up-the-environment)
    - [Running the Project](#running-the-project)
 
-## Project Overview
+## Project Overview 🖼️
 
 This project is designed to download random 4K images and is created by Brian Chege. It uses Python and various libraries to accomplish this task.
 
-## Getting Started
+## Getting Started 🚀
 
 To get started with this project, follow these steps:
 
-### Cloning the Repository
+### Cloning the Repository 💻
 
 1. Open your terminal or command prompt.
 2. Navigate to the directory where you want to clone the project.
@@ -30,8 +30,7 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/CHEGEBB/4k-Wallpaper-downloader.git
-Installing Python 3 on Linux
-Before running the project, ensure that you have Python 3 installed on your Linux system. If it's not installed, you can install it using the package manager available on your distribution. Use one of the following commands based on your Linux distribution:
+
 
 ## Debian/Ubuntu:
 sudo apt update && sudo apt install python3
