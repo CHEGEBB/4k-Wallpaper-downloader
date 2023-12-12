@@ -38,13 +38,19 @@ sudo apt update && sudo apt install python3
 ## Red Hat/CentOS:
 sudo dnf install python3    # or
 sudo yum install python3
-## Setting Up the Environment:
+## Setting Up the Environment 🛠️
+```bash
 cd 4k-Wallpaper-downloader
+```
 ## Install the required Python packages by running:
-pip install -r requirements.txt &&
-pip install -r requirements2.txt
+```bash
+pip install -r requirements.txt && pip install -r requirements2.txt
+```
 ## Running the Project:
+```bash
 python3 main.py
+```
+
 
 
 
