@@ -31,7 +31,7 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/CHEGEBB/4k-Wallpaper-downloader.git
 
-
+# installing python  🐍
 ## Debian/Ubuntu:
 sudo apt update && sudo apt install python3
 
